@@ -1,6 +1,6 @@
-#include <iostream.h>
+#include <iostream>
 
-using name spase std;
+using namespace std;
 
 void main() {
     cout << "Привет!";
